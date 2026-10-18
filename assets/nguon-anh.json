@@ -1,0 +1,223 @@
+{
+  "date": "13/10/2026",
+  "images": [
+    {
+      "file": "assets/b6-10.png",
+      "source": "Ảnh Anh Lộc cung cấp: G:/anh-bot-24h/b6-10.png",
+      "caption": "Bot xác nhận đã bật trong nhóm. Tên bot trong ảnh là ví dụ; thao tác với bot của bạn.",
+      "sha256": "14f1c13e705f8671489a0cffd4703ad79ba529d8bbbddba88b2bbceb851b331f",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-6-link-chia-se.png",
+      "source": "Ảnh Anh Lộc cung cấp: 18a53179-d703-4105-9466-adee1fa9f371",
+      "caption": "Deeplink để mở bot/chat riêng; Link mời vào nhóm để chia sẻ lời mời vào nhóm. Bot trong ảnh là ví dụ của anh Lộc.",
+      "sha256": "fe2532ed29e95b48c2d113d94e28f92ed203059bd1a0236b73c901bf71b0e59f",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-6-xac-nhan-moi.png",
+      "source": "Ảnh Anh Lộc cung cấp: 401b182a-3ec4-432e-a28a-4219316192a3",
+      "caption": "Mở thẻ mời trong nhóm và xác nhận thêm bot. Sau khi bot tham gia mới gửi @bot bật nhóm bằng tài khoản quản lý.",
+      "sha256": "eabd4d5ed93a90320572f07e386ef9def2ad1b742880a4f3b8af507e9d0f43c1",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/phan-2-buoc-3.png",
+      "source": "Ảnh Anh Lộc cung cấp: G:/anh-bot-24h/chuan-bi/phan-2-buoc-3.png",
+      "caption": "Đặt KHOI-TAO-BOT.md cùng chỗ với README.md, AGENTS.md và package.json. Windows trong ảnh đang ẩn đuôi file: KHOI-TAO-BOT là file .md, package là file .json.",
+      "sha256": "615f20ba05ca26ac2e61fc1e1c2221ddecb180ad64baed715fda84a994c8d915",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/cloudflare-secret.png",
+      "source": "Ảnh Anh Lộc gửi: d39d2643-514d-4b0a-9824-8f18ed4d5fb5",
+      "caption": "Ví dụ lưu ZALO_BOT_TOKEN: chọn Production (bot đang dùng) và Secret (khóa bí mật), nhập khóa riêng rồi lưu. Preview dành cho chạy thử.",
+      "sha256": "1dc8cd71e6b3dda8c63e142f8c01266655ff6298b3869e4663f24927548657c5",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-2-2.jpg",
+      "source": "Ảnh Anh Lộc cung cấp: G:/anh-bot-24h/bài 2/b2-2.jpg",
+      "caption": "Ô tìm kiếm và tab Khám phá: kết quả Zalo Bot Manager.",
+      "sha256": "fb08f09a065f8c0fec5428680e43516dca89effb3e15c405b62909856ca1f005",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-2-3.jpg",
+      "source": "Ảnh Anh Lộc cung cấp: G:/anh-bot-24h/bài 2/b2-3.jpg",
+      "caption": "Trang Zalo Bot Manager có nút Quan tâm và Nhắn tin.",
+      "sha256": "4b6a8ef5d228e53b73cd9e4b0b9055449d9c7183da30bbdb7ebc62e2c42e9041",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-2-4.jpg",
+      "source": "Ảnh Anh Lộc cung cấp: G:/anh-bot-24h/bài 2/b2-4.jpg",
+      "caption": "Trong chat Zalo Bot Manager, bấm Tạo Bot ở dưới cùng.",
+      "sha256": "381ed637821fe0a7831b2111a30b8c496488471bcd65cd3587abba1e2519391c",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-2-5.jpg",
+      "source": "Ảnh Anh Lộc cung cấp: G:/anh-bot-24h/bài 2/b2-5.jpg",
+      "caption": "Bấm Tạo tài khoản Zalo Bot trong Bot Creator. Bot An 24h trong ảnh là ví dụ.",
+      "sha256": "0f1981efe4384de1c7e6a9760e493ea03618ab43b751c6ae09de05b31ae4db79",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-2-6.jpg",
+      "source": "Ảnh Anh Lộc cung cấp: G:/anh-bot-24h/bài 2/b2-6.jpg",
+      "caption": "Điền tên và giới thiệu, đọc điều khoản rồi tạo tài khoản Bot.",
+      "sha256": "7e29a19766fee7b7ca9cd1f2988d63886430c1d87054db40033a94ceb8e1814a",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-2-9.jpg",
+      "source": "Ảnh Anh Lộc cung cấp: G:/anh-bot-24h/bài 2/b2-9.jpg",
+      "caption": "Quay lại danh sách Tin nhắn: bot mới gửi thông báo khởi tạo.",
+      "sha256": "a8da7e4b9e07e60abba6ade99a59a13845968e0904ec0eb66cf7e3a2db3e3044",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-3-2.png",
+      "source": "Ảnh Anh Lộc cung cấp: G:/anh-bot-24h/b3-2.png",
+      "caption": "Ở cột trái Cloudflare, mở Compute rồi chọn Workers & Pages.",
+      "sha256": "a9066c6446e317427b17e04d4e5d7935ba877f8c17eeec611b0e12de81e50ab6",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-3-5.png",
+      "source": "Ảnh Anh Lộc cung cấp: G:/anh-bot-24h/b3-5.png",
+      "caption": "Settings → Runtime variables and secrets → Production → Add variable.",
+      "sha256": "9ecce4bf887479ff15e208c6eb497fb2c584090bf7f2eeb6ca99401a02641fc4",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/wrangler-authorize.png",
+      "source": "Ảnh Anh Lộc cung cấp: G:/anh-bot-24h/sau AI chuẩn bị và triển khai bộ mã.png",
+      "caption": "Kiểm tài khoản của bạn rồi bấm Authorize / Allow; ảnh hiện nút Authorize.",
+      "sha256": "b1b1d99db6916c68581e1668483b302a0921c24961e2191137f5fb4e05020389",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/wrangler-localhost-loi.png",
+      "source": "Ảnh Anh Lộc cung cấp: G:/anh-bot-24h/sau AI chuẩn bị và triển khai bộ mã lỗi.png",
+      "caption": "localhost từ chối kết nối: mở lưu ý xử lý, kiểm phiên trước đăng nhập lại.",
+      "sha256": "b617b270502072dd7406b192ba901edf645f7a6f16c7051c46cf68f13af11cb8",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/wrangler-da-cap-quyen.png",
+      "source": "Ảnh Anh Lộc cung cấp: G:/anh-bot-24h/sau AI chuẩn bị và triển khai bộ mã liên kết được.png",
+      "caption": "Authorization granted to Wrangler: đã cấp quyền, quay lại AI để kiểm whoami và tiếp tục.",
+      "sha256": "13cb41bf23b6231bc54b2050c4dc955d7035a58628caf997d2dd3529a609582e",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-3-worker.png",
+      "source": "Ảnh Anh Lộc cung cấp: G:/anh-bot-24h/b3-4.png",
+      "caption": "Tên Worker trong ảnh là ví dụ. Chọn Worker AI đã báo cho bộ bot của bạn.",
+      "sha256": "760918365c7bcaaab62f2df27b1504d90f619a625050be230e626db7a54dcae3",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-3-7-2.png",
+      "source": "Ảnh Anh Lộc cung cấp: G:/anh-bot-24h/b3-7-2.png",
+      "caption": "Production, WEBHOOK_SECRET và loại Secret; lưu bằng Add 1 variable and deploy.",
+      "sha256": "b607705e1d9bbf1a2a7a9721d4f85f1684c92000559900fec2caaeb2b78e0dca",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-3-12.png",
+      "source": "Ảnh Anh Lộc cung cấp: G:/anh-bot-24h/b3-12.png",
+      "caption": "Thiết lập chung: điền URL và Secret Token rồi bấm Lưu thay đổi. Khóa trong ảnh đã ẩn.",
+      "sha256": "ec9a120eec5e3a9ba27e73a5ef6563817174ee0fad2039d4b9eebc0cd019bdac",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-4-2-settings.png",
+      "source": "Ảnh Anh Lộc gửi trong cuộc trò chuyện: 6a1e213f-e3e5-4b9d-b90b-1fcd20798de3",
+      "caption": "Chọn Settings ở cột bên trái OpenAI Platform.",
+      "sha256": "993fc68c62e0e04c71a33c8fe23368138d0e70ccbe37f9beefe7938a5f9831a4",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-4-2-organization.png",
+      "source": "Ảnh Anh Lộc gửi trong cuộc trò chuyện: eda30d65-8f93-4121-9347-23b9bba92b7a",
+      "caption": "Bấm Organization settings ở góc phải để mở phần tổ chức.",
+      "sha256": "7d6a5ed2153e058a4e7d697d1626280674666ec3eb21b33b1883ea9211bae137",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-4-2-projects.png",
+      "source": "Ảnh Anh Lộc gửi trong cuộc trò chuyện: 7f33f0ac-f53a-4d0d-9834-3bfdabe4dd16",
+      "caption": "Chọn Projects ở cột trái, rồi bấm + Create để tạo Project.",
+      "sha256": "a02cf05a0c5b0a91f66ea8e74dcd59627f1021bbe044b2b7869ec34757ba2564",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-4-3-limits.png",
+      "source": "Ảnh Anh Lộc gửi trong cuộc trò chuyện: bb5c17d6-3454-4505-aaca-d5922e3b1729",
+      "caption": "Trong Project mở Limits, chọn Set spend limit.",
+      "sha256": "4c550b35ffc3292c0fb3c2bf848b14d7a4f63a1b3be07dbd888907a8b2380cf7",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-4-3-enforce.png",
+      "source": "Ảnh Anh Lộc gửi trong cuộc trò chuyện: b7eca496-3f66-43b0-abdc-9e36125e528c",
+      "caption": "Nhập Monthly spend limit và bật Enforce a hard limit, rồi lưu. Mức $100 trong ô là gợi ý của giao diện; nhập mức bạn chọn.",
+      "sha256": "bc8f4a506440212dbb0eabc57e00dd643efa49c88137b2231658f32f73a99565",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-4-3-thanh-cong.png",
+      "source": "Ảnh Anh Lộc gửi trong cuộc trò chuyện: 367eb585-f61c-42ad-bef3-8928624ed4ab",
+      "caption": "Limit enforced xác nhận đã bật chặn theo hạn mức. Ảnh mẫu đã đặt $1.00; $0.00 là chi tiêu được ghi nhận lúc chụp.",
+      "sha256": "e9273afc60a84854e841de16be9767c0446ad5a3042396b135c735126f9697d7",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-4-4-api-key.png",
+      "source": "Ảnh Anh Lộc gửi trong cuộc trò chuyện: d445969b-619a-4f4d-bc0b-cc236d84c90b",
+      "caption": "Create new secret key: Owned by chọn You, nhập Name, chọn đúng Project và Ngày hết hạn; Permissions trong ảnh là All. Chỉ cất key riêng sau khi tạo, không đưa giá trị key vào ảnh hoặc chat AI.",
+      "sha256": "74a96e94550c55010e2a89a33ba8127cc45e3fdffc3582683249bcb75bd3640b",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    },
+    {
+      "file": "assets/bai-4-5-secret-worker.jpg",
+      "source": "Ảnh kiểm trực tiếp Cloudflare Worker bot-zalo-ca-nhan-24h ngày 14/10/2026; chỉ chụp form trống, không đọc hoặc lưu key.",
+      "caption": "Worker → Settings → Runtime variables and secrets → Production → Add variable. Điền Key là OPENAI_API_KEY, dán key riêng vào Value, chọn Secret rồi Add 1 variable and deploy. Value trong ảnh trống.",
+      "sha256": "f4f6a7b0bd7751f5faeaaea8f455bead4c44ced0b20a0c40990394f4987ce263",
+      "copiedUnmodified": true,
+      "visuallyReviewed": true
+    }
+  ],
+  "secondSampleImageReused": false,
+  "reason": "Ảnh của bài Auto Video không minh họa thao tác cài bot; chỉ giữ bố cục bài học."
+}
