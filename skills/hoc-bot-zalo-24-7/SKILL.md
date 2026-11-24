@@ -7,15 +7,21 @@ metadata:
 
 # Học và cài bot Zalo 24/7
 
+## Khởi tạo từ một file
+
+Người học nhận KHOI-TAO-BOT.md riêng và mở thư mục chứa file bằng AI. Theo file đó, hỏi lần lượt 3 câu về cách xưng hô, việc bot hỗ trợ và tên bot; bỏ qua câu đã có. AI tự tạo thư mục, bung mã và chỉ dẫn có sẵn trong file khởi tạo, kiểm phiên bản/manifest trước khi dùng. Không bắt học viên tải hay giải nén ZIP, không sinh lại lõi. Tải lỗi/hash sai thì giữ hồ sơ và báo vướng, không lùi bản cũ. Không tự cài/đăng nhập/triển khai trước bài tương ứng.
+
+Bài 1 dùng lại hồ sơ 3 câu, chỉ xác nhận/sửa khi cần; chưa hỏi dồn nhóm, nguồn, ID hay khóa. Tiến độ duy nhất nằm ở tien-do.md gốc thư mục bot. Chi tiết nhóm và nguồn hỏi ở Bài 6/7. Tiếp tục trong thư mục cha thì kiểm bot-zalo-24h ngay bên dưới, không cài bộ lồng nhau. Chỉ nhận skill tự động khi có bằng chứng; đọc SKILL.md trực tiếp vẫn dùng được chỉ dẫn trong phiên hiện tại.
+
 ## Bắt đầu và tiếp quản
 
 Người học muốn tiếp tục: đọc tiến độ trong đúng thư mục; báo phần đã đạt, đang dở và một bước tiếp. Không cài lại hoặc thử lại phần đã đạt. Nếu thiếu tiến độ thì kiểm trạng thái trước khi kết luận.
 
 Chủ yêu cầu ngừng gửi ảnh/link: dùng npm.cmd run resources:stop -- "<tên>" trong dự án bot. Công cụ đọc cloud nên mục thêm qua portal không cần mã local; phải thử công cụ trước khi kết luận không làm được. Chỉ báo đã ngừng khi stopped=true và currentVerified=true.
 
-Đọc file KHOI-TAO-BOT.md người học nhận riêng, README.md, manifest.json và tien-do.md nếu có trong thư mục bộ mã. Ghi đường dẫn đã đọc trong tiến độ; chỉ liệt kê cho người học khi họ yêu cầu xác nhận nhận diện hoặc file. Thiếu file riêng thì báo đúng phần thiếu; không giả rằng skill chứa hồ sơ của khách hoặc tự tải file riêng từ GitHub. Không yêu cầu đường dẫn G:/D: của tác giả trên máy khách.
+Đọc README.md, manifest.json và tien-do.md; chỉ cần file KHOI-TAO-BOT.md nếu chưa dựng mã nếu có trong thư mục bộ mã. Ghi đường dẫn đã đọc trong tiến độ; chỉ liệt kê cho người học khi họ yêu cầu xác nhận nhận diện hoặc file. Thiếu file riêng thì báo đúng phần thiếu; không giả rằng skill chứa hồ sơ của khách hoặc tự tải file riêng từ GitHub. Không yêu cầu đường dẫn G:/D: của tác giả trên máy khách.
 
-Phương pháp công khai: mục đích → danh tính bot → phản hồi cố định trên cloud → AI/chi phí → nhớ hội thoại → quyền/nhóm/ảnh → thông tin riêng → vận hành. Dùng chương trình nền sourceVersion 0.1.0-local.64, bundleVersion 0.1.0-draft.55. Đối chiếu phiên bản thật; không lấy latest hoặc sáng tác lõi khác khi bộ tải thiếu. Hash cùng gói giúp phát hiện file đổi, không chứng minh danh tính nhà phát hành.
+Phương pháp công khai: mục đích → danh tính bot → phản hồi cố định trên cloud → AI/chi phí → nhớ hội thoại → quyền/nhóm/ảnh → thông tin riêng → vận hành. Dùng chương trình nền sourceVersion 0.1.0-local.65, bundleVersion 0.1.0-draft.57. Đối chiếu phiên bản thật; không lấy latest hoặc sáng tác lõi khác khi bộ tải thiếu. Hash cùng gói giúp phát hiện file đổi, không chứng minh danh tính nhà phát hành.
 
 ## Làm một bài cho người học hiểu
 

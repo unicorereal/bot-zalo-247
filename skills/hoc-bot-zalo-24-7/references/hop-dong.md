@@ -163,3 +163,6 @@ Chọn file và nhập mật khẩu của chính file đó vào ô Mật khẩu 
 Bài9 bắt đầu bằng AI kiểm và bật EXTENSIONS_ENABLED, RECOVERY_ENABLED và PUBLIC_BOT_ORIGIN đúng Worker, kiểm quyền quản lý và phép thử giả. Sau đó người học mới thử lịch rồi tải/kiểm bản sao. Không phụ thuộc đã làm Bài8; không tự bật thoại hoặc đọc file chỉ để dùng lịch. Giữ cấu hình và dữ liệu của các phần đã đạt.
 
 Nhắc việc bằng câu thường: mã nền nhận các mẫu như “Nhắc tôi sau 10 phút uống nước” hoặc “Nhắc t lúc 9h sáng mai đi mua hoa quả”; không gọi model để phân tích giờ. Thiếu ngày/giờ thì hỏi thêm, chưa tạo lịch; thiếu nội dung thì yêu cầu Nội dung: ... . Yêu cầu hỏi thêm gắn người gửi/loại chat/chat, hết sau5phút hoặc đổi chủ đề; hủy chỉ bỏ yêu cầu chưa đặt, không hủy các lịch đã lưu. Không hứa hiểu mọi cách nói; giờ rưỡi/kém hoặc lịch lặp chưa hỗ trợ thì nói rõ và yêu cầu giờ cụ thể. Ngày giờ ViệtNam, một lần, giới hạn hiện có1phút–365ngày. Chỉ nói Đã hẹn nhắc sau ghi SQLite thành công; lệnh /nhac /lichnhac /huynhac giữ tương thích. Không tạo lịch thật thay chủ khi chỉ soạn câu kiểm.
+
+
+Nhận thêm mẫu “Nhắc lịch 8h ngày mai đi mua hoa quả” và “Đặt lịch nhắc 8h ngày mai đi mua hoa quả”. Ngày viết sát sau giờ được đọc riêng, ví dụ 8h 07/11/2026 là 08:00 ngày 07/11/2026; chỉ xác nhận sau khi lưu lịch thành công.
